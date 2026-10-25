@@ -17,11 +17,14 @@
 
 <br clear="right"/>
 
-### 📚 What I'm reading
+### ✍️ Things I've written
 
-- [Netflix TechBlog](https://netflixtechblog.com): how Netflix keeps streaming at massive scale
-- [Cloudflare Blog](https://blog.cloudflare.com): the best outage postmortems on the internet
-- [Kubernetes Blog](https://kubernetes.io/blog): what's new in the thing I deploy everything to
+- [Web Hosting on AWS Using Amazon EKS](https://shindesnehal277.medium.com/)
+- [Deploying an Application Using Google Cloud](https://shindesnehal277.medium.com/)
+- [Adobe Experience Manager with AWS Automation](https://shindesnehal277.medium.com/)
+- [How Big MNCs Store and Manage Terabytes of Data at High Speed](https://shindesnehal277.medium.com/)
+
+<sub>More on [Medium](https://shindesnehal277.medium.com/) →</sub>
 
 ### 🧰 Tools I use
 
@@ -38,6 +41,7 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/snehal-s-578705172/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:snehalshinde3028@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://shindesnehal277.medium.com/"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,100:1f6feb&height=90&section=footer" />
