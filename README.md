@@ -6,7 +6,7 @@
 
 ### 👋 Hey, I'm Snehal
 
-- 🏦 Spent 3+ years at **TCS** keeping a banking platform alive for **2M+ transactions a day**
+- 🛠️ I love turning **slow, manual processes into fast, automated ones**
 - 🚀 Took a **45-minute release down to under 6 minutes**. Nobody misses the old way.
 - 🎓 Finishing my **M.S. in Information Systems** at **Northeastern**, Boston (Dec 2026)
 - 🌱 Currently learning **Go and Kubernetes operators**
